@@ -1,0 +1,37 @@
+header {
+    background-color: #244751;
+    color:#E8FDFF;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+main{
+    background-color:white;
+    padding:16px;
+}
+
+.post{
+    margin-bottom:48px;
+}
+
+.post .user-info img {
+    border-radius:50%;
+}
+
+.post .user-info:hover {
+    color: orange;
+}
+
+.post .user-info:active {
+    color: red;
+}
+
+.post ul:hover{
+    color:brown;
+}
+
+a:visited{
+    color: green;
+}
